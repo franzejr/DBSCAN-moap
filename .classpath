@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="lib/postgres-moap.jar"/>
 	<classpathentry kind="lib" path="lib/distance-moap.jar"/>
 	<classpathentry kind="lib" path="lib/clustering-moap.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
